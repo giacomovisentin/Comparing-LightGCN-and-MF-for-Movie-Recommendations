@@ -2,7 +2,7 @@
 Recommendation systems personalize content across industries like e-commerce and streaming. Traditional methods like Matrix Factorization predict user preferences, while Graph Neural Networks (GNNs) model complex relationships. This project compares these approaches in recommending movies.
 
 ## Datasets: 
-you can find the dataset we used in https://grouplens.org/datasets/movielens/
+Here you can find the dataset we used: https://grouplens.org/datasets/movielens/
 
 ## Abstract of the report
 Recommendation systems have become an integral part of various industries, including e-commerce, streaming services, and social media, by providing personalized content and product suggestions to users. Traditional recommendation systems rely on techniques like Matrix Factorization, which decomposes user-item interactions to predict preferences. Recently, Graph Neural Networks (GNNs) have gained attention for their ability to model complex relationships in data, especially in user-item interaction networks. This project aims to compare the performance and suitability of Matrix Factorization and GNN-based approaches for recommendation tasks,  by observing how each technique recommends movies.
